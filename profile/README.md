@@ -22,7 +22,6 @@ Each plugin lives in its own repository, with its own history, issues and releas
 |---|---|
 | [Power-Platform-Starter](https://github.com/TC-Program-Integration/Power-Platform-Starter) | React starter for model-driven app web resources and Power Automate flows, in TypeScript and Python, with tests that run without Dataverse. |
 | [TAN-BDN](https://github.com/TC-Program-Integration/TAN-BDN) | The TAN/BDN request dialog (React) on the Event Plan, Training Item and Operational Plan forms, and the acting sync flow. Built on the Power Platform starter. |
-| [TAN-BDN-Form---Andrew-Changes](https://github.com/TC-Program-Integration/TAN-BDN-Form---Andrew-Changes) | Variant of the Power Platform starter for the TAN/BDN form changes. |
 | [orgchart-sync](https://github.com/TC-Program-Integration/orgchart-sync) | Reads the Transport Canada OrgChart, matches people to Dataverse users, and writes the manager plan that the OrgChartManagerSync plugin applies. Never writes to Dataverse. |
 
 ## Getting started
